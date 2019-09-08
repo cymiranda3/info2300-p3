@@ -1,0 +1,29 @@
+h1 {
+  margin-left: 15%;
+  font-family:'Bebas Neue';
+}
+h2 {
+  margin-left: 15%;
+  font-family: 'Bebas Neue';
+  color: green;
+}
+h3 {
+  margin-left: 15%;
+  font-family: 'Bebas Neue';
+  color: red;
+}
+#upload {
+  margin-left: 20%;
+}
+button[class='backbutton'] {
+  width: 20%;
+  cursor: pointer;
+  margin-left: 15%;
+	display: block;
+  background: none;
+  border: none;
+  font-family: 'Bebas Neue';
+  color: black;
+  border: 1px solid black;
+  font-size: 15px;
+}

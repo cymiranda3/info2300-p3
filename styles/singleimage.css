@@ -1,0 +1,119 @@
+@font-face {
+  font-family: "Bebas Neue";
+  src: url("../fonts/Bebas_Neue/Bebas_Neue.ttf");
+}
+
+#gallery-wrapper {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: auto;
+  display: block;
+  padding-bottom: 50%;
+}
+
+#imageSection img {
+  width: 50%;
+  float: left;
+  display: block;
+}
+
+#descriptionSection {
+  width: 49%;
+  height: 336px;
+  float: right;
+  display: block;
+}
+
+#descriptionSection h1 {
+  margin-top: 0px;
+  font-family: 'Bebas Neue';
+  font-size: 30px;
+}
+
+h4 {
+  font-family: 'Bebas Neue';
+  font-size: 16px;
+  margin-left: 15px;
+}
+
+.footer {
+  width: 100%;
+}
+
+input[type="text"] {
+  margin-left: 3%;
+}
+
+button[class="linkbutton"] {
+  min-width: 80px;
+  cursor: pointer;
+	margin-right: auto;
+	display: block;
+  background: none;
+  border: none;
+  font-family: 'Bebas Neue';
+  color: black;
+  border: 1px solid black;
+  font-size: 15px;
+}
+.delete {
+  min-width: 20px;
+  cursor: pointer;
+	margin-right: auto;
+	display: block;
+  background: none;
+  border: none;
+  font-family: 'Bebas Neue';
+  color: black;
+  border: 1px solid black;
+  font-size: 15px;
+}
+#tagaddbutton {
+  margin-left: 15px;
+}
+#deletebutton {
+  color: red;
+  border-color: red;
+}
+#addtag {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.addwrapper {
+  margin: 0;
+  padding: 0;
+}
+.button1 {
+  margin: 0;
+  display: inline-block;
+  float: left;
+}
+.button2 {
+  margin: 0;
+  display: inline-block;
+}
+input[type='text'] {
+  padding: 10px;
+  border: 1px solid black;
+  font-family: 'Bebas Neue';
+  font-size: 20px;
+}
+.message {
+  font-family: 'Bebas Neue';
+  color: red;
+  font-size: 14px;
+  display: inline-block;
+  margin: 0;
+}
+.backbutton {
+  cursor: pointer;
+  margin-left: 2%;
+	margin-right: auto;
+	display: block;
+  background: none;
+  border: none;
+  font-family: 'Bebas Neue';
+  color: black;
+  text-decoration: underline;
+  font-size: 25px;
+}

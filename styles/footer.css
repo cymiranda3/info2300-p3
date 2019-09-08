@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Bebas Neue";
+  src: url("../fonts/Bebas_Neue/Bebas_Neue.ttf");
+}
+
+footer {
+  font-family: 'Bebas Neue';
+  font-size: 18px;
+  width: 100%;
+  text-align: center;
+  padding-top: 10%;
+}
