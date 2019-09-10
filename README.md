@@ -9,3 +9,10 @@ See the respective **submit-*milestone*.md** file for each milestone for submiss
 * Milestone 1: [submit-m1.md](submit-m1.md)
 * Milestone 2: [submit-m2.md](submit-m2.md)
 * Final Submission: [submit-final.md](submit-final.md)
+
+# Final Result:
+
+You can view this project online at [this url](https://calm-everglades-25587.herokuapp.com/).
+To log in, use the following credentials:
+- Username: user2@gmail.com
+- Password: info2300-pw
